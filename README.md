@@ -8,5 +8,5 @@ https://youtu.be/FyOU7T-Qc9U?si=BI3J4MCF0ZlWerLr
 
 # SW 컨테스트 장려상 수상 (2023.12.08)
 
+![KakaoTalk_20231209_162935388_09](https://github.com/user-attachments/assets/355f64c8-54d2-4825-a384-379118f18e22)
 
-![Uploading KakaoTalk_20231209_162935388_09.jpg…]()

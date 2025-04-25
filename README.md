@@ -1,7 +1,9 @@
 # 2023 소프트웨어 경진대회 작품 (lane change)
+
+# What to do
 카메라와 라이다센서를 활용하여 앞차를 추월하는 것을 구현함
 
-
+# Video
 #라이다가 들어간 영상
 https://youtu.be/FyOU7T-Qc9U?si=BI3J4MCF0ZlWerLr
 

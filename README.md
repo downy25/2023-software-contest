@@ -3,6 +3,8 @@
 # What to do
 카메라와 라이다 센서를 활용하여 앞차와 일정 거리 가까워졌을 때 뒤차가 자율적으로 추월하는 것을 구현함
 
+# 
+
 # Video
 #라이다가 들어간 영상
 https://youtu.be/FyOU7T-Qc9U?si=BI3J4MCF0ZlWerLr
